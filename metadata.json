@@ -1,0 +1,8 @@
+{
+  "name": "Harmonia Student House Jatinangor",
+  "description": "Peluang investasi rukost dan apartkost modern syariah di Ring 1 UNPAD & ITB Jatinangor dengan proyeksi ROI hingga 14,41% per tahun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
